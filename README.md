@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm George Kameel</h1>
+<h3 align="center">A passionate Data analyst from Egypt and I am interested in Machine learning and Data science</h3>
+
+- 📫 How to reach me **georgegkb98@gmail.cpm**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sMfPkPkgP-EFLlNRcZhsYDzVGXEzfZlG/view?usp=sharing](https://drive.google.com/file/d/1sMfPkPkgP-EFLlNRcZhsYDzVGXEzfZlG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
