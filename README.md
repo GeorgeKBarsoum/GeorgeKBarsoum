@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in Huawei as Data analyst **CEM SOC Service**
 
-- 📫 How to reach me **georgegkb98@gmail.cpm**
+- 📫 How to reach me **georgekbarsoum98@gmail.cpm**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sMfPkPkgP-EFLlNRcZhsYDzVGXEzfZlG/view?usp=sharing](https://drive.google.com/file/d/1sMfPkPkgP-EFLlNRcZhsYDzVGXEzfZlG/view?usp=sharing)
 
